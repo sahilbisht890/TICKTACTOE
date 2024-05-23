@@ -1,0 +1,14 @@
+.boxes{
+  border:1.5px solid black !important;
+  width: 100px !important;
+  height: 100px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+body 
+{
+  background-color: #e7e1ce !important;
+
+}
